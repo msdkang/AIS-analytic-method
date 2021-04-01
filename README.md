@@ -1,4 +1,4 @@
-# AIS
+# Vectorized AIS analysis method
 A data analysis method to process AIS data and capture traffic features.
 
 Automatic Identification System (AIS) is a maritime safety and vessel navigation system that automatically sends an AIS record every 2 to 30 seconds based on vessel speed. Every AIS message includes static information, like MMSI, vessel name, vessel type, vessel dimensions, and dynamic information, namely date and time, longitude and latitude, speed, heading, and destination. The AIS data is available on the MarineCadastre.gov .
